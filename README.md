@@ -4,6 +4,8 @@ React チュートリアルで用いられるまるばつゲームを Typescript
 
 ## 今回経験したこと
 
-git の使い方　typescriptの型定義の仕方　コンポーネントを使わないhooksの書き方
+git の使い方　
+typescriptの型定義の仕方　
+コンポーネントを使わないhooksの書き方
 
 
