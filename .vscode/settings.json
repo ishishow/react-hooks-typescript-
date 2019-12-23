@@ -1,0 +1,21 @@
+{
+  "extensions.showRecommendationsOnlyOnDemand": false,
+  "eslint.packageManager": "yarn",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    {
+      "language": "typescript",
+      "autoFix": true
+    },
+    {
+      "language": "typescriptreact",
+      "autoFix": true
+    }
+  ],
+  "eslint.autoFixOnSave": true,
+  "eslint.workingDirectories": [
+    { "directory": "./app", "changeProcessCWD": true }
+  ],
+  "editor.tabSize": 2,
+}
